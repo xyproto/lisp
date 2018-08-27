@@ -4,6 +4,10 @@ Small wrapper script for evaluating the main function in files with SBCL.
 
 The first argument is the filename, the second (optional) argument is the name of the function to evaluate. `main` is the default function name.
 
+## Example usage
+
+    lisp hello.cl hello
+
 ## Installation
 
     make install
@@ -14,4 +18,10 @@ or
 
 ## Dependencies
 
-    * SBCL, with `/usr/bin/sbcl` available.
+* SBCL, with `/usr/bin/sbcl` available.
+
+## General information
+
+* License: MIT
+* Version: 1.0
+* Author: Alexander F. Rødseth &lt;xyproto@archlinux.org&gt;
