@@ -24,8 +24,10 @@ or
 
 Contents of **hello.cl**:
 
-    (defun main ()
-        (write-line "Hello, World!"))
+```lisp
+(defun main ()
+    (write-line "Hello, World!"))
+```
 
 Run with:
 
