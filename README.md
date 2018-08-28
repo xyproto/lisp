@@ -20,6 +20,17 @@ or
 
 * SBCL, with `/usr/bin/sbcl` available.
 
+## Hello, World!
+
+Contents of **hello.cl**:
+
+   (defun main ()
+      (write-line "Hello, World!"))
+
+Run with:
+
+    lisp hello.cl
+
 ## General information
 
 * License: MIT
