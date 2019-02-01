@@ -28,8 +28,8 @@ The function to run can also be specified explicitly:
 
 ## Usage
 
-For the `lisp` command, the first argument is the filename, the second (optional) argument is the name of the function to evaluate. `main` is the default function name.
-For the `lispi` command, the first (optional) argument is the name of a file to load.
+* For the `lisp` command, the first argument is the filename, the second (optional) argument is the name of the function to evaluate. `main` is the default function name.
+* For the `lispi` command, the first (optional) argument is the name of a file to load.
 
 ## Dependencies
 
@@ -38,9 +38,13 @@ For the `lispi` command, the first (optional) argument is the name of a file to 
 
 ## Installation
 
-    make install
+### Arch Linux
 
-or
+Just install the `lisp` package from AUR.
+
+### From source
+
+With the correct permissions:
 
     PREFIX=/usr make install
 
