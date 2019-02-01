@@ -46,6 +46,6 @@ or
 
 ## General information
 
-* Version: 1.1.0
+* Version: 1.2.0
 * License: GPL2
 * Author: Alexander F. Rødseth &lt;xyproto@archlinux.org&gt;
