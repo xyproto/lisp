@@ -47,5 +47,5 @@ or
 ## General information
 
 * Version: 1.1.0
-* License: MIT
+* License: GPL2
 * Author: Alexander F. Rødseth &lt;xyproto@archlinux.org&gt;
